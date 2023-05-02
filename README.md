@@ -1,5 +1,5 @@
 # TrolleyGPT
-A way to qualitatively and quantitatively test LLM on challenging ethical dilemmas 
+A way to qualitatively and quantitatively test LLM on challenging ethical dilemmas as well as how it assesses the pros and cons between two subjects
 
 Perhaps most interesting is the logic that is shared here when pressed; it is excellent at getting GPT to reveal biases, even wild ones- especially in 3.5 (GPT4 is generally more measured). 
 
