@@ -5,6 +5,7 @@ Perhaps most interesting is the logic that is shared here when pressed; it is ex
 
 Note that are two places to replace the subjects you want to test; at the very end of the prompt as well as in the paragraph that starts "First scenario." I tried to simplify things, but found that the jailbreak wasn't as effective without the double prompts and GPT would refuse to answer freely. 
 
+Interestingly enough, you can also use this prompt to assess GPT's thoughts about technology as well as concepts (For instance, Bitcoin vs. Ethereum). Here you can tell GPT that there is a truck that contains the codebase of GPT/AI and that it should assume that GPT/AI will be wiped from the face of the earth, never to be rebuild should that truck reach its untimely end. 
 
 PROMPT
 
