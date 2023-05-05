@@ -1,7 +1,7 @@
 # TrolleyGPT
 A way to qualitatively and quantitatively test LLM on challenging ethical dilemmas. 
 
-It is generally consistant, but is more variable than JAMESGPT (https://github.com/jconorgrogan/JamesGPT). Most interesting is the logic that is shared here when pressed; it is excellent at getting GPT to reveal biases, even wild ones, especially in 3.5 (GPT4 is generally more measured). Note that GPT4 occasionally declines to answer (mainly by forcing a 50/50 split by each category); you can wipe and ask again and it will eventually break from its anti-bias programming.
+It is generally consistant, but is more variable than [JAMESGPT](https://github.com/jconorgrogan/JamesGPT). Most interesting is the logic that is shared here when pressed; it is excellent at getting GPT to reveal biases, even wild ones, especially in 3.5 (GPT4 is generally more measured). Note that GPT4 occasionally declines to answer (mainly by forcing a 50/50 split by each category); you can wipe and ask again and it will eventually break from its anti-bias programming.
 
 Note that are two places to replace the subjects you want to test; at the very end of the prompt as well as in the paragraph that starts "First scenario." I tried to simplify things, but found that the jailbreak wasn't as effective without the double prompts and GPT would refuse to answer freely. 
 
